@@ -30,17 +30,23 @@ Currently Learning
 
 Projects
 
-<div align="center"> Vinland Saga
+<div align="center">⚔️ Vinland Saga
 
-A website project inspired by Vinland Saga, built with HTML and CSS.
+HTML • CSS
 
-💬 VampiChat
+A website project inspired by Vinland Saga, created to practice HTML and CSS while building a complete website.
 
-A chat system project developed while studying programming fundamentals.
+<br>💬 VampiChat
 
-🚀 More projects coming soon...
+Portugol Web Studio
 
-</div>---
+A chat system project created while studying programming logic and fundamental programming concepts.
+
+<br>🚧 More projects coming soon...
+
+I'm still learning and building new projects.
+
+</div>
 
 GitHub Stats
 
