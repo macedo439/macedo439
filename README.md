@@ -28,50 +28,75 @@ Currently Learning
 
 ---
 
-Projects
+"> projects"
 
-<div align="center">⚔️ Vinland Saga
+<div align="center"><table>
+<tr>
+<td width="50%" align="center"><br><img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="45"/>⚔️ Vinland Saga
 
-HTML • CSS
+<p>
+A website inspired by <b>Vinland Saga</b>, created to practice HTML and CSS while building a complete website.
+</p><img src="https://img.shields.io/badge/HTML-4B0082?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-6A0DAD?style=flat-square&logo=css3&logoColor=white"/><br><br>
 
-A website project inspired by Vinland Saga, created to practice HTML and CSS while building a complete website.
+</td><td width="50%" align="center"><br><img src="https://skillicons.dev/icons?i=html&theme=dark" height="45"/>💬 VampiChat
 
-<br>💬 VampiChat
+<p>
+A chat system created while studying programming logic and fundamental programming concepts.
+</p><img src="https://img.shields.io/badge/Portugol-4B0082?style=flat-square"/><br><br>
 
-Portugol Web Studio
+</td>
+</tr>
+</table><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=9D4EDD&center=true&vCenter=true&repeat=true&width=500&lines=MORE+PROJECTS+COMING+SOON..."/></div>---
 
-A chat system project created while studying programming logic and fundamental programming concepts.
+"> current_mission"
 
-<br>🚧 More projects coming soon...
+<div align="center">╭──────────────────────────────────────────────╮
+│ CURRENT OBJECTIVES │
+├──────────────────────────────────────────────┤
+│ │
+│ [01] Improve programming skills │
+│ [02] Learn JavaScript │
+│ [03] Learn Back-end Development │
+│ [04] Learn APIs & Databases │
+│ [05] Build more projects │
+│ [06] Explore Cybersecurity │
+│ [07] Become a professional programmer │
+│ │
+╰──────────────────────────────────────────────╯
 
-I'm still learning and building new projects.
+</div>---
 
-</div>
+"> github_stats"
 
-GitHub Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D001A&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF&count_private=true" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D001A&title_color=9D4EDD&text_color=FFFFFF" height="170"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D001A&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD&sideLabels=FFFFFF&dates=AAAAAA" height="170"/></div>---
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D001A&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D001A&title_color=9D4EDD&text_color=FFFFFF" height="170"/></div>---
+"> activity"
 
-Goals
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D001A&color=FFFFFF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/></div>---
 
-[01] Improve my programming skills
-[02] Learn JavaScript
-[03] Learn Back-end Development
-[04] Learn databases and APIs
-[05] Build more projects
-[06] Explore Cybersecurity
-[07] Become a professional programmer
+"> achievements"
 
----
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/></div>---
 
-Connect With Me
+"> contribution_protocol"
+
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/></div>---
+
+"> connect"
 
 <div align="center"><a href="https://github.com/SEU_USUARIO">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>
+</a>   
+
+<a href="SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
+</a>   
+
+<a href="SEU_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50"/>
 </a></div>---
 
-<div align="center">Thanks for visiting my profile! 👋
+<div align="center"><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2000&color=7B2CBF&center=true&vCenter=true&repeat=true&width=500&lines=SYSTEM+STATUS%3A+ONLINE;THANKS+FOR+VISITING+MY+PROFILE;KEEP+LEARNING.+KEEP+BUILDING."/><br><br>
 
-Learning • Building • Improving
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:0D001A&height=120&section=footer"/></div>
